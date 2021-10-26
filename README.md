@@ -1,5 +1,5 @@
 # Diabetes-Detection-System
-This our Minor project 1 for the 5th semester of CCVT batch of 2019-2023. We are working on a Diabetes Detection system using Machine Learning algorithms.
+This is our Minor project 1 for the 5th semester of CCVT batch of 2019-2023. We are working on a Diabetes Detection system using Machine Learning algorithms.
 ## Algorithms used:
 - k-Nearest Neighbour algorithm.
 - Naive Bayes algorithm.
